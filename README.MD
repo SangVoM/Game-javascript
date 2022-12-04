@@ -1,6 +1,6 @@
 # Game Javascript
 
-## 1. playGameClick
+## 1. Play_game
 * Click the screen to destroy the crow
 <p>
  <a href="2022.md">
